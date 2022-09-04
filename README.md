@@ -1,2 +1,15 @@
 # Tutorial-Data-Analysis-and-Image-Processing
-Tutorial for data analysis and image processing with python
+> python의 pandas를 사용하고자 하는 분들을 위한 도움 및 보조자료입니다.  
+> pandas 공식 사이트에 게재된 documents를 보고 정리한 자료와
+> 제가 스스로 공부하고 사용해오면서 배운 유용한 팁 등을 정리해 놓을 예정입니다.
+
+> 데이터분석과 이미지처리를 위해 사용되는 여러가지는 모듈이나 패키지, 방법론 등을 정리할 예정입니다.  
+> 목차는 다음고 같습니다. 비주기적으로 자료가 업로드 되거나 수정됩니다.  
+> 업로드날짜와 수정날짜, 사용한 python의 버전과 모듈의 버전 등을 확인하여 유용하게 사용하길 바라겠습니다.  
+
+궁금하신 점이 있으시다면, 언제나 질문 주시기 바랍니다.  
+
+## 목차    
+00. Python 기본 사용법과 conda 환경 구축하기
+01. pandas libarary 사용하기
+02. ...
